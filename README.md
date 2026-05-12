@@ -58,7 +58,7 @@ CDIO (Concebir, Diseñar, Implementar y Operar)
 
 
 
-\## Autor(es)
+\## Autores
 
 Miguel Angel Corredor Novoa 
 
